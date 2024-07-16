@@ -1,0 +1,67 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/favourites.svg</file>
+        <file>icons/converter.svg</file>
+        <file>icons/graph.svg</file>
+        <file>icons/more.svg</file>
+        <file>icons/plus.svg</file>
+        <file>icons/minus.svg</file>
+        <file>icons/divide.svg</file>
+        <file>icons/multiply.svg</file>
+        <file>icons/equal.svg</file>
+        <file>icons/clean.svg</file>
+        <file>icons/erase.svg</file>
+        <file>icons/change.svg</file>
+        <file>icons/redo.svg</file>
+        <file>icons/check.svg</file>
+        <file>icons/spinner.svg</file>
+        <file>icons/search.svg</file>
+        <file>icons/tapme.svg</file>
+        <file>icons/add.svg</file>
+        <file>icons/arrow-up.svg</file>
+        <file>icons/arrow-down.svg</file>
+        <file>icons/arrow-right.svg</file>
+
+        <file>icons/empty.svg</file>
+        <file>icons/develop.svg</file>
+        <file>icons/smile1.svg</file>
+        <file>icons/smile2.svg</file>
+
+        <file>flags/AMD.svg</file>
+        <file>flags/AUD.svg</file>
+        <file>flags/AZN.svg</file>
+        <file>flags/BGN.svg</file>
+        <file>flags/BRL.svg</file>
+        <file>flags/BYN.svg</file>
+        <file>flags/CAD.svg</file>
+        <file>flags/CHF.svg</file>
+        <file>flags/CNY.svg</file>
+        <file>flags/CZK.svg</file>
+        <file>flags/DKK.svg</file>
+        <file>flags/EUR.svg</file>
+        <file>flags/GBP.svg</file>
+        <file>flags/HKD.svg</file>
+        <file>flags/HUF.svg</file>
+        <file>flags/INR.svg</file>
+        <file>flags/JPY.svg</file>
+        <file>flags/KGS.svg</file>
+        <file>flags/KRW.svg</file>
+        <file>flags/KZT.svg</file>
+        <file>flags/MDL.svg</file>
+        <file>flags/NOK.svg</file>
+        <file>flags/PLN.svg</file>
+        <file>flags/RON.svg</file>
+        <file>flags/RUB.svg</file>
+        <file>flags/SEK.svg</file>
+        <file>flags/SGD.svg</file>
+        <file>flags/TJS.svg</file>
+        <file>flags/TMT.svg</file>
+        <file>flags/TRY.svg</file>
+        <file>flags/UAH.svg</file>
+        <file>flags/USD.svg</file>
+        <file>flags/UZS.svg</file>
+        <file>flags/XDR.svg</file>
+        <file>flags/ZAR.svg</file>
+        <file>flags/default.svg</file>
+    </qresource>
+</RCC>

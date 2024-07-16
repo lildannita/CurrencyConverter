@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qmldir</file>
+        <file>MainWindow.qml</file>
+    </qresource>
+    <qresource prefix="/ValStyle">
+        <file alias="qmldir">ValStyle/qmldir</file>
+        <file alias="Style.qml">ValStyle/Style.qml</file>
+        <file alias="ValPage.qml">ValStyle/ValPage.qml</file>
+        <file alias="ValFooter.qml">ValStyle/ValFooter.qml</file>
+        <file alias="ValFooterItem.qml">ValStyle/ValFooterItem.qml</file>
+        <file alias="ValButton.qml">ValStyle/ValButton.qml</file>
+        <file alias="ValutePopup.qml">ValStyle/ValutePopup.qml</file>
+        <file alias="ValuteRaw.qml">ValStyle/ValuteRaw.qml</file>
+        <file alias="ErrorPopup.qml">ValStyle/ErrorPopup.qml</file>
+        <file alias="InfoPopup.qml">ValStyle/InfoPopup.qml</file>
+        <file alias="ValSwitch.qml">ValStyle/ValSwitch.qml</file>
+        <file alias="SplashScreenInfo.qml">ValStyle/SplashScreenInfo.qml</file>
+    </qresource>
+    <qresource prefix="/FavouritesPage">
+        <file alias="qmldir">FavouritesPage/qmldir</file>
+        <file alias="FavouritesTab.qml">FavouritesPage/FavouritesTab.qml</file>
+        <file alias="FavouriteRaw.qml">FavouritesPage/FavouriteRaw.qml</file>
+        <file alias="FavouriteItem.qml">FavouritesPage/FavouriteItem.qml</file>
+        <file alias="DeletePopup.qml">FavouritesPage/DeletePopup.qml</file>
+    </qresource>
+    <qresource prefix="/ConverterPage">
+        <file alias="qmldir">ConverterPage/qmldir</file>
+        <file alias="ConverterTab.qml">ConverterPage/ConverterTab.qml</file>
+        <file alias="CalculationGrid.qml">ConverterPage/CalculationGrid.qml</file>
+        <file alias="DigitButton.qml">ConverterPage/DigitButton.qml</file>
+        <file alias="ActionButton.qml">ConverterPage/ActionButton.qml</file>
+        <file alias="OperationButton.qml">ConverterPage/OperationButton.qml</file>
+        <file alias="ValueField.qml">ConverterPage/ValueField.qml</file>
+        <file alias="ValueRaw.qml">ConverterPage/ValueRaw.qml</file>
+        <file alias="InfoField.qml">ConverterPage/InfoField.qml</file>
+    </qresource>
+    <qresource prefix="/CoursesPage">
+        <file alias="qmldir">CoursesPage/qmldir</file>
+        <file alias="CoursesTab.qml">CoursesPage/CoursesTab.qml</file>
+    </qresource>
+    <qresource prefix="/MorePage">
+        <file alias="qmldir">MorePage/qmldir</file>
+        <file alias="MoreTab.qml">MorePage/MoreTab.qml</file>
+        <file alias="HeaderGroupName.qml">MorePage/HeaderGroupName.qml</file>
+        <file alias="SwitchSettingsItem.qml">MorePage/SwitchSettingsItem.qml</file>
+        <file alias="ButtonSettingsItem.qml">MorePage/ButtonSettingsItem.qml</file>
+        <file alias="InfoAppItem.qml">MorePage/InfoAppItem.qml</file>
+    </qresource>
+</RCC>

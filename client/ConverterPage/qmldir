@@ -1,0 +1,8 @@
+module ConverterPage
+ConverterTab 1.0 ConverterTab.qml
+CalculationGrid 1.0 CalculationGrid.qml
+DigitButton 1.0 DigitButton.qml
+ActionButton 1.0 ActionButton.qml
+OperationButton 1.0 OperationButton.qml
+ValueField 1.0 ValueField.qml
+ValueRaw 1.0 ValueRaw.qml

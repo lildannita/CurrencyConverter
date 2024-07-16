@@ -1,0 +1,12 @@
+module ValStyle
+singleton Style 1.0 Style.qml
+ValPage 1.0 ValPage.qml
+ValFooter 1.0 ValFooter.qml
+ValFooterItem 1.0 ValFooterItem.qml
+ValButton 1.0 ValButton.qml
+ValuteRaw 1.0 ValuteRaw.qml
+ValutePopup 1.0 ValutePopup.qml
+ErrorPopup 1.0 ErrorPopup.qml
+InfoPopup 1.0 InfoPopup.qml
+ValSwitch 1.0 ValSwitch.qml
+SplashScreenInfo 1.0 SplashScreenInfo.qml
